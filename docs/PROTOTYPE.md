@@ -1,16 +1,16 @@
 # Прототип интерфейса PetCare
 
 ### Светлая тема (полноэкранный режим)
-![Светлая, десктоп](docs/prototype/desktop_light.svg)
+![Светлая, десктоп](prototype/desktop_light.svg)
 
 ### Тёмная тема (полноэкранный режим)
-![Тёмная, десктоп](docs/prototype/desktop_dark.svg)
+![Тёмная, десктоп](prototype/desktop_dark.svg)
 
 ### Светлая тема (мобильный режим)
-![Светлая, мобильный](docs/prototype/mobile_light.svg)
+![Светлая, мобильный](prototype/mobile_light.svg)
 
 ### Тёмная тема (мобильный режим)
-![Тёмная, мобильный](docs/prototype/mobile_dark.svg)
+![Тёмная, мобильный](prototype/mobile_dark.svg)
 
 ## Дизайн-система
 
